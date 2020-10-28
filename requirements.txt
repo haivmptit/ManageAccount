@@ -1,0 +1,16 @@
+requests==2.24.0
+pybase64==1.0.1
+Datetime==4.3
+numpy==1.18.5
+Pillow==7.2.0
+mxnet==1.6.0
+mtcnn
+insightface
+scikit-image==0.17.2
+jwt==1.0.0
+more-itertools==8.5.0
+flask==1.1.2
+flask_cors==3.0.8
+gevent==20.6.2
+keras==2.3.1
+gunicorn # For Deploy
